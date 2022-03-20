@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jyeh20.github.io/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/jyeh20.github.io/react-gh-pages/static/js/main.20ca75f9.js",
-    "static/js/787.dabb6a0a.chunk.js": "/jyeh20.github.io/react-gh-pages/static/js/787.dabb6a0a.chunk.js",
-    "static/media/logo.svg": "/jyeh20.github.io/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jyeh20.github.io/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/jyeh20.github.io/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.20ca75f9.js.map": "/jyeh20.github.io/react-gh-pages/static/js/main.20ca75f9.js.map",
-    "787.dabb6a0a.chunk.js.map": "/jyeh20.github.io/react-gh-pages/static/js/787.dabb6a0a.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/react-gh-pages/static/js/main.3a94c8ee.js",
+    "static/js/787.dabb6a0a.chunk.js": "/react-gh-pages/static/js/787.dabb6a0a.chunk.js",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
+    "main.3a94c8ee.js.map": "/react-gh-pages/static/js/main.3a94c8ee.js.map",
+    "787.dabb6a0a.chunk.js.map": "/react-gh-pages/static/js/787.dabb6a0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.20ca75f9.js"
+    "static/js/main.3a94c8ee.js"
   ]
 }
